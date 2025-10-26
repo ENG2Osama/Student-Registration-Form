@@ -1,0 +1,17 @@
+C:\Users\a\Desktop\c# programs\HW1\HW1\bin\Debug\net6.0-windows\HW1.exe
+C:\Users\a\Desktop\c# programs\HW1\HW1\bin\Debug\net6.0-windows\HW1.deps.json
+C:\Users\a\Desktop\c# programs\HW1\HW1\bin\Debug\net6.0-windows\HW1.runtimeconfig.json
+C:\Users\a\Desktop\c# programs\HW1\HW1\bin\Debug\net6.0-windows\HW1.dll
+C:\Users\a\Desktop\c# programs\HW1\HW1\bin\Debug\net6.0-windows\HW1.pdb
+C:\Users\a\Desktop\c# programs\HW1\HW1\obj\Debug\net6.0-windows\HW1.csproj.AssemblyReference.cache
+C:\Users\a\Desktop\c# programs\HW1\HW1\obj\Debug\net6.0-windows\HW1.Form1.resources
+C:\Users\a\Desktop\c# programs\HW1\HW1\obj\Debug\net6.0-windows\HW1.csproj.GenerateResource.cache
+C:\Users\a\Desktop\c# programs\HW1\HW1\obj\Debug\net6.0-windows\HW1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a\Desktop\c# programs\HW1\HW1\obj\Debug\net6.0-windows\HW1.AssemblyInfoInputs.cache
+C:\Users\a\Desktop\c# programs\HW1\HW1\obj\Debug\net6.0-windows\HW1.AssemblyInfo.cs
+C:\Users\a\Desktop\c# programs\HW1\HW1\obj\Debug\net6.0-windows\HW1.csproj.CoreCompileInputs.cache
+C:\Users\a\Desktop\c# programs\HW1\HW1\obj\Debug\net6.0-windows\HW1.dll
+C:\Users\a\Desktop\c# programs\HW1\HW1\obj\Debug\net6.0-windows\refint\HW1.dll
+C:\Users\a\Desktop\c# programs\HW1\HW1\obj\Debug\net6.0-windows\HW1.pdb
+C:\Users\a\Desktop\c# programs\HW1\HW1\obj\Debug\net6.0-windows\HW1.genruntimeconfig.cache
+C:\Users\a\Desktop\c# programs\HW1\HW1\obj\Debug\net6.0-windows\ref\HW1.dll
